@@ -89,9 +89,9 @@ Fell free to run the toy examples that describe the main uses cases on: src/play
 To execute this project you need to install the libraries, download some package and download the trained models as
 follow:
 
-1. Clone the repo available on "https://github.com/jespinosal/product-absa"
-From ssh : <git clone git@github.com:jespinosal/product-absa.git>
-From html: <git clone https://github.com/jespinosal/product-absa.git>
+1. Clone the repo available on "https://github.com/jespinosal/aspect_based_sentiment_analysis"
+From ssh : <git clone git@github.com:jespinosal/aspect_based_sentiment_analysis.git>
+From html: <git clone https://github.com/jespinosal/aspect_based_sentiment_analysis.git>
 
 2. Setup your log and temp path. This is a optional step (In training loop the temporal models will be store on temp)
 modifying the dict "COMMON_MODELS" on the file config/config.py
